@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mero_Sathi.iml" filepath="$PROJECT_DIR$/.idea/modules/Mero_Sathi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Mero_Sathi.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Mero_Sathi.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Mero_Sathi.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Mero_Sathi.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Mero_Sathi.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Mero_Sathi.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Mero_Sathi.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Mero_Sathi.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

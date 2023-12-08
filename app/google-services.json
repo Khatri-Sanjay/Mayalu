@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355316044800",
+    "project_id": "mero-sathi-44aff",
+    "storage_bucket": "mero-sathi-44aff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355316044800:android:99cc4a54d2c6348652f4e5",
+        "android_client_info": {
+          "package_name": "com.np.sanjaykhatri.merosathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8phJfcfnCy05m1OyGawcSYVR_booxFWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
